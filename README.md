@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @vingvk
-- 👀 I’m interested in Cloud Computing
-- 🌱 I’m currently learning AWS & DEVOPS
+- 👋 Hi, I’m Vineeth Gudibanda
+- 👀 I’m interested in JAVA and Cloud Computing
+- 🌱 JAVA,AWS.
 
 
 <!---
