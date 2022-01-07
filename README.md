@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vineeth Gudibanda
-- 👀 I’m interested in JAVA and Cloud Computing
-- 🌱 JAVA,AWS.
+- 👀 I’m interested in Cloud Computing
+- 🌱 Linux,AWS.
 
 
 <!---
