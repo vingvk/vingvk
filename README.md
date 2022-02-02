@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Vineeth Gudibanda
-- 👀 I’m interested in Cloud Computing
-- 🌱 Linux,AWS.
 
 
 <!---
